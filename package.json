@@ -1,0 +1,13 @@
+{
+  "name": "aagman-sohala",
+  "version": "1.0.0",
+  "description": "श्री गणेश आगमन सोहळा २०२६ - रसाळ परिवार",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "deploy": "npx vercel --prod"
+  },
+  "keywords": ["ganesh", "aagman", "invitation"],
+  "author": "Adarsh Rasal",
+  "license": "ISC"
+}
